@@ -4,7 +4,7 @@
 
 <template>
   <nav>
-    <RouterLink v-for="route in this.$router.getRoutes()" v-bind:to=route.path>
+    <RouterLink v-for="route in $router.getRoutes()" v-bind:to=route.path>
       {{route.name}}
     </RouterLink>
   </nav>

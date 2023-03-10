@@ -17,8 +17,7 @@ export class RouteHelper {
       }
       newName += char
     }
-    console.log(name)
-    console.log(newName)
+
     return newName
   }
 }
