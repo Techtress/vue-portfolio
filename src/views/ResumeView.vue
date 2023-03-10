@@ -1,5 +1,5 @@
 <template>
   <main>
-    Home
+    Resume
   </main>
 </template>

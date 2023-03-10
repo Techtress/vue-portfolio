@@ -1,0 +1,15 @@
+[ {
+  "name": "GitHub",
+  "img": "github.png",
+  "url": "https://github.com/Techtress"
+},
+{
+  "name": "LinkedIn",
+  "img": "linkedin.png",
+  "url": "https://www.linkedin.com/in/awrighttech"
+},
+{
+  "name": "Facebook",
+  "img": "facebook.png",
+  "url": "https://www.facebook.com/techtress"
+} ]

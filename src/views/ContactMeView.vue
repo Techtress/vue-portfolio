@@ -1,5 +1,5 @@
 <template>
   <main>
-    Home
+    Contact Me
   </main>
 </template>
